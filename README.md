@@ -64,7 +64,7 @@ I like the following technologies: javascript, typescript, react and nextjs.
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=solomonprosppers&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=solomonprospers&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
@@ -73,6 +73,7 @@ I like the following technologies: javascript, typescript, react and nextjs.
 </td></tr></table>  
 
 <br/>  
+
 
   
 
