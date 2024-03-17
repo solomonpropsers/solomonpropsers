@@ -88,4 +88,3 @@ I like the following technologies: javascript, typescript, react and nextjs.
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
